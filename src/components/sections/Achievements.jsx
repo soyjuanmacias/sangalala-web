@@ -48,13 +48,6 @@ const MILESTONES = [
         description: "Un repaso a todo lo que hemos logrado juntos a lo largo de 2025.",
         reel: "https://www.instagram.com/p/DS742HFDPWA/embed/",
     },
-    {
-        year: "2025",
-        month: "",
-        title: "Resumen Sangalala",
-        description: "Un repaso a todo lo que hemos logrado juntos desde los inicios de Sangalala.",
-        reel: "https://www.instagram.com/p/DU22q0rjAK2/embed/",
-    },
 ];
 
 function MilestoneCard({ title, description, reel, month, year, index }) {
@@ -127,7 +120,7 @@ export function Achievements() {
                     <div className="md:hidden absolute left-1.5 top-0 bottom-0 w-0.5 bg-primary/20" />
 
                     <div>
-                        {MILESTONES.map((milestone, index) => (
+                        {[...MILESTONES].reverse().map((milestone, index) => (
                             <MilestoneCard key={index} {...milestone} index={index} />
                         ))}
                     </div>
