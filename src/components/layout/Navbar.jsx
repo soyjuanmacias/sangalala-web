@@ -15,7 +15,7 @@ export function Navbar() {
         <nav className="fixed top-0 left-0 w-full bg-white/90 backdrop-blur-md z-50 shadow-sm">
             <div className="max-w-7xl mx-auto px-6 flex items-center justify-between h-16">
                 <a href="#" className="text-xl font-bold text-dark tracking-tight">
-                    Sangalala
+                    Sangalala Malawi
                 </a>
 
                 {/* Desktop */}
