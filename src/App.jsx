@@ -1,5 +1,5 @@
 import { Navbar, Footer } from "./components/layout/index.js";
-import { Hero, About, Impact, News, Donate, Team, Contact } from "./components/sections/index.js";
+import { Hero, About, Impact, News, Donate, Team, Contact, Achievements } from "./components/sections/index.js";
 
 export function App() {
     return (
@@ -11,6 +11,7 @@ export function App() {
                 <Impact />
                 <News />
                 <Donate />
+                <Achievements />
                 <Team />
                 <Contact />
             </main>

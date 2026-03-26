@@ -5,3 +5,4 @@ export { News } from "./News.jsx";
 export { Donate } from "./Donate.jsx";
 export { Team } from "./Team.jsx";
 export { Contact } from "./Contact.jsx";
+export { Achievements } from "./Achievements.jsx";

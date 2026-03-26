@@ -3,6 +3,7 @@ import { useState } from "react";
 const NAV_LINKS = [
     { label: "Quiénes somos", href: "#quienes-somos" },
     { label: "Impacto", href: "#impacto" },
+    { label: "Logros", href: "#logros" },
     { label: "Noticias", href: "#noticias" },
     { label: "Equipo", href: "#equipo" },
     { label: "Contacto", href: "#contacto" },
