@@ -1,14 +1,15 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+@import "tailwindcss";
+
+@theme {
+    --font-sans: "Inter", system-ui, sans-serif;
+    --color-primary: #fb8f51;
+    --color-primary-light: #fdb88a;
+    --color-primary-dark: #e67a3c;
+    --color-dark: #1a1a1a;
+    --color-accent: #2d6a4f;
+    --color-accent-light: #40916c;
 }
 
-body {
-  font-family: 'Inter', system-ui, sans-serif;
-  min-height: 100vh;
-  background: linear-gradient(135deg, #FDB88A 0%, #FB8F51 40%, #f9a46e 100%);
-  color: #1a1a1a;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+html {
+    scroll-behavior: smooth;
 }
