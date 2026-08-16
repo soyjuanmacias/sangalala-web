@@ -9,8 +9,8 @@ const MILESTONES = [
     {
         year: "2024",
         month: "",
-        title: "Compra del terreno",
-        description: "Adquirimos el terreno en Likuni, Malawi, donde se construirá el centro educativo.",
+        title: "Primeros pasos",
+        description: "Primera edificación construida en nuestro terreno",
         reel: "https://www.instagram.com/p/C_VveP6i31D/embed/",
     },
     {
@@ -21,24 +21,17 @@ const MILESTONES = [
         reel: "https://www.instagram.com/p/DNKuIaUo4xk/embed/",
     },
     {
-        year: "2024",
-        month: "",
-        title: "Construcción de las escuelas",
-        description: "Se completan los dos primeros edificios escolares, permitiendo escolarizar durante todo el año.",
-        reel: "https://www.instagram.com/p/DEcko3yIe0m/embed/",
-    },
-    {
         year: "2025",
         month: "",
         title: "Pozo de agua",
-        description: "Se excava e instala el pozo de agua que abastece al centro y a la comunidad.",
+        description: "Se excava e instala el pozo de agua que abastece a nuestro terreno y a la comunidad.",
         reel: "https://www.instagram.com/p/DRC_w_ICKTd/embed/",
     },
     {
         year: "2025",
         month: "",
         title: "Depósito y bomba de agua",
-        description: "Se instala el depósito elevado y la bomba para garantizar el suministro continuo de agua potable.",
+        description: "Instalación de tanque de agua de 10000 metros con dos grifos para dar suministro a nuestro terreno y a la comunidad",
         reel: "https://www.instagram.com/p/DWPFRr3DYF2/embed/",
     },
     {
@@ -47,6 +40,27 @@ const MILESTONES = [
         title: "Resumen 2025",
         description: "Un repaso a todo lo que hemos logrado juntos a lo largo de 2025.",
         reel: "https://www.instagram.com/p/DS742HFDPWA/embed/",
+    },
+    {
+        year: "2026",
+        month: "Mayo",
+        title: "Plantación de 50 árboles",
+        description: "Hemos plantado 50 árboles frutales de Papaya, Aguacate, Naranja y Mango",
+        reel: "https://www.instagram.com/p/DY9-Kd5shym/embed/",
+    },
+    {
+        year: "2026",
+        month: "Julio",
+        title: "Construcción de Biblioteca - De acero industrial a refugio de lectura",
+        description: "Aprovechamos el contenedor marítimo que enviamos desde España con la ayuda de Ayuda Contenedores y Caravana de Vida en el que metimos material escolar, educativo y de deporte para construir una biblioteca",
+        reel: "https://www.instagram.com/p/DbWFLL1P_6f/embed/",
+    },
+    {
+        year: "2026",
+        month: "Julio",
+        title: "Primer partido de fútbol",
+        description: "Convocamos primer partido de futbol entre los jóvenes de la comunidad. La idea es que puedan entrenar durante la semana en sus villas y el fin de semana vengan a proyecto a realizar los partidos de futbol oficiales.",
+        reel: "https://www.instagram.com/p/DbWFLL1P_6f/embed/",
     },
 ];
 
